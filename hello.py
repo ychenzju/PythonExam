@@ -3,7 +3,7 @@
 def say_hello(name):
     print("Hello {name}!".format(name=name))
 
-say_hello("Yao")
+say_hello("Yao Chen")
 print('Testing...')
 
 for n in range(10):
